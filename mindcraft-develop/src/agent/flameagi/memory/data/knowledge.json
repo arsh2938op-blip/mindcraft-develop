@@ -1,0 +1,34 @@
+{
+    "general": [],
+    "minecraft": {
+        "pvp": [],
+        "movement": [],
+        "combat": [],
+        "survival": [],
+        "building": [
+            {
+                "id": "e4e05749-2a1d-4566-9916-aff5e1dcb343",
+                "category": "minecraft.building",
+                "content": "The conversational approach for \"GEMINI_1: (FROM OTHER BOT)Hey FLAMEAGI_1! Admin told me to ask you what my role should be for helping build this 4-player base. What do you need me to do?\" failed. Problems: Response contains failure indicator: \"error\". Improve the response strategy before repeating it.",
+                "normalized": "the conversational approach for gemini_1 from other bot hey flameagi_1 admin told me to ask you what my role should be for helping build this 4-player base what do you need me to do failed problems response contains failure indicator error improve the response strategy before repeating it",
+                "source": "FlameLearning",
+                "createdAt": "2026-09-25T13:19:07.723Z",
+                "updatedAt": "2026-09-25T13:19:07.723Z",
+                "importance": 0.65,
+                "confidence": 0.7,
+                "embedding": []
+            }
+        ],
+        "mining": [],
+        "crafting": [],
+        "general": [
+            {
+                "id": "mt79lbze-na3cnsde",
+                "content": "The approach for \"Server: describe yourself\" failed. Problems: Response contains failure indicator: \"error\". Improve the strategy before repeating it.",
+                "source": "FlameLearning",
+                "createdAt": "2026-08-24T13:21:12.938Z"
+            }
+        ]
+    },
+    "sources": []
+}

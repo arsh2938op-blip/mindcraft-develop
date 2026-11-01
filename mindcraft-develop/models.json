@@ -1,0 +1,34 @@
+{
+    "presets": {
+
+        "default": [
+            "FlameAGI/gemma2:2b"
+        ],
+
+        "duo": [
+            "FlameAGI/gemma2:2b",
+            "gemini/gemini-3.5-flash"
+        ],
+
+        "online": [
+            "gemini/gemini-3.5-flash",
+            "groq/qwen/qwen3.6-27b",
+            "gpt/gpt-oss:20b-cloud"
+        ],
+
+        "all": [
+            "FlameAGI/gemma2:2b",
+            "gemini/gemini-3.5-flash",
+            "groq/qwen/qwen3.6-27b",
+            "gpt/gpt-oss:20b-cloud"
+        ],
+
+        "potato": [
+            "ollama/gemma2:2b"
+        ],
+
+        "speed": [
+            "groq/qwen/qwen3.6-27b"
+        ]
+    }
+}
